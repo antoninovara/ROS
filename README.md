@@ -1,6 +1,9 @@
 # ROS
 How to install ROS Kinetic in Ubuntu 16.04
 
+Download Ubuntu 16.04:
+http://ftp.rediris.es/sites/releases.ubuntu.com/16.04/ubuntu-16.04.4-desktop-amd64.iso
+
 
 Steps:
 
