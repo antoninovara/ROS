@@ -1,5 +1,6 @@
 # ROS
-How to install ROS Kinetic in Ubuntu
+How to install ROS Kinetic in Ubuntu 16.04
+
 
 Steps:
 
@@ -10,6 +11,7 @@ sudo apt-key adv --keyserver hkp://ha.pool.sks-keyservers.net:80 --recv-key 421C
 sudo apt-get update
 
 sudo apt-get install ros-kinetic-desktop-full
+have you had any problem here? Are you installing ROS Kinetic in Ubuntu 16.04 or are you using another Ubuntu distro?
 
 sudo rosdep init
 
