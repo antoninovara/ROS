@@ -10,6 +10,9 @@ Log in automatically
 5.- Toggle the Automatic Login switch to ON.
 
 Terminator
-
+    sudo add-apt-repository ppa:gnome-terminator
+    sudo apt-get update
+    sudo apt-get install terminator
 
 Ubuntu Menu
+http://www.florian-diesch.de/software/classicmenu-indicator/#download
