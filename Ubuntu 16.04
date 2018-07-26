@@ -1,0 +1,14 @@
+Installing Ubuntu 16.04 in VirtualBox
+
+After installation:
+
+Log in automatically
+1.- Open the Activities overview and start typing Users.
+2.- Click Users to open the panel.
+3.- Select the user account that you want to log in to automatically at startup.
+4.- Press Unlock and enter your password.
+5.- Toggle the Automatic Login switch to ON.
+
+Terminator
+
+Ubuntu Menu
